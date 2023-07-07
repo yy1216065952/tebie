@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: Y1w3NlLmwaiEx2SbewxikvmgHt3rd5k+z6rjS9KRTOw=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: L2FDK1gO1PmgLbU8p+gHaP0tbaCmJNBIQ8GciGUPI6w=
+
+Name: assets/protected_by_np/ApkControlFlowConfusion_5.0_59d709d3980c4
+ b75b91616b23aef401c.txt
+SHA-256-Digest: jo5hZ6hSAast//DYTG2IxmWbUiay8eSbEkkRPWRk/uY=
+
+Name: assets/xposed_init
+SHA-256-Digest: JtsqjwkLSfehLXhoPl06PvthBivv3srNKTL8TwzuHlY=
+
+Name: classes.dex
+SHA-256-Digest: TnmvHrK+OQQ0zwAxJB2P5x2/r4b/1rIoWMVyDZl45B0=
+
+Name: mapping-32317.bin
+SHA-256-Digest: LoqhoRzOeL6wcfCoYr7XM+R74X4FJPsfmEUmuQtNy7Q=
+
+Name: resources.arsc
+SHA-256-Digest: v3zIBEOnyOOASbnU/kSiH9dfEFzR9eJ3OJwQ6ZXMAYE=
+

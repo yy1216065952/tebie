@@ -1,0 +1,27 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: TYVQnCJDlzWE2n7yvbebh7quxyqeYK3vFUngy4Bn2ig=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: A/ZjFu2j8SYc75FCc6C3CHz5cVMHd1o+md3KsY76km0=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: yFpQgVQxsa35Z/3vf4uH0rSO6F5kB7Z+lwTy9rFUYzk=
+
+Name: assets/protected_by_np/ApkControlFlowConfusion_5.0_59d709d3980c4
+ b75b91616b23aef401c.txt
+SHA-256-Digest: U0+1ABoLm20g21SnKuCqEZwY+IVM7zYvwkqEfyrITC0=
+
+Name: assets/xposed_init
+SHA-256-Digest: T84TRPe6m+7K9XvTeUKG1tEDqT7kC98t14tLwopOFiQ=
+
+Name: classes.dex
+SHA-256-Digest: JQQGh0NDuccP5C8Oc97DtZWXXtB63g56r+h72hJ1s9s=
+
+Name: mapping-32317.bin
+SHA-256-Digest: O4UnyiHpGNv/7Bv0gRPnJL4/oRd0yf0qcTvIArwb9QY=
+
+Name: resources.arsc
+SHA-256-Digest: rUoBeB+CZP91YjKTN4KC6949fat1qqn0HkPUOCLwb1w=
+
